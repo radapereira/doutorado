@@ -1,0 +1,33 @@
+data =  
+{
+    "type": 0,
+    "version": 0.1,
+    "model": 3,
+    "id": "124b002e845cb6",
+    "token": "mcg7ypr7h5",
+    "status": [
+        {
+            "timestamp": 1718138142,
+            "signal": -41,
+            "battery": 100,
+            "sensors": [
+                {
+                    "id": "124b002e845cb6",
+                    "data": 21.57
+                },
+                {
+                    "id": "124b002e845cb6",
+                    "data": 59.38
+                },
+                {
+                    "id": "124b002e845cb6",
+                    "data": -1
+                },
+                {
+                    "id": "124b002e845cb6",
+                    "data": -1
+                }
+            ]
+        }
+    ]
+}

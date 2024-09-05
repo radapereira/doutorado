@@ -1,0 +1,32 @@
+Presentes:
+
+Fábio - fabiodasilva@ima.sc.gov.br
+Omar - omarfares@ima.sc.gov.br
+Diogo - diogofae@ima.sc.gov.br
+Márcio Fiori
+Gustavo Colpani
+
+Pauta:
+
+Objetivo da Pesquisa: O principal objetivo deste projeto é desenvolver uma plataforma robusta de monitoramento e análise da qualidade do ar, utilizando sensores digitais e técnicas avançadas de big data e IA.
+
+ Objetivos Específicos:
+1. Adquirir e instalar sensores digitais para coleta de dados sobre variáveis de qualidade do ar.
+2. Desenvolver algoritmos especialistas para analisar os dados coletados.
+3. Desenvolver uma plataforma customizada em nuvem para armazenar, formatar e organizar os dados coletados.
+ 
+Demanda Atual: 
+
+Localizar um local para a coleta de dados para o estudo de campo. Verificar se existem dados e a forma como são coletados e registrados pelo IMA.
+ 
+Metodologia:
+            	Utilizaremos uma variedade de sensores digitais para coletar dados, que serão armazenados em uma infraestrutura em nuvem. Algoritmos especialistas serão desenvolvidos para analisar os dados e fornecer insights acionáveis.
+
+Tópicos da Reunião
+
+- Homologar equipamentos para monitoramento do ar;
+- Sensores CO2, oxigênio, metano, sulfeto de hidrogênio;
+
+Providenciar:
+- Termo de convênio;
+- Ponto de coleta (ver energia e transmissão dos dados);
