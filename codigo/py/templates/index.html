@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gráfico de Sensores</title>
+</head>
+<body>
+    <h1>Gráfico de Sensores Atualizado</h1>
+    <!-- A tag <img> faz a solicitação HTTP GET para a rota /grafico.png -->
+    <img id="sensor-graph" src="{{ url_for('gerar_grafico') }}" alt="Gráfico de Sensores">
+    
+    <!-- Script para atualizar a imagem a cada 5 segundos -->
+    <script>
+        setInterval(function() {
+            var img = document.getElementById("sensor-graph");
+            img.src = "{{ url_for('gerar_grafico') }}" + "?t=" + new Date().getTime();
+        }, 5000);  // Atualiza a cada 5000 ms (5 segundos)
+    </script>
+</body>
+</html>
+
